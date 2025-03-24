@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: SPCC
+    company: St. Paul's Co-educational College
+    company_url: 'https://www.spcc.edu.hk/'
     company_logo: org-x
     location: California
     date_start: '2021-01-01'
@@ -34,9 +34,9 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: SPCCPS
+    company: St. Paul's Co-Educational College Primary School
+    company_url: 'https://www.spccps.edu.hk/'
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
