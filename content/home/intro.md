@@ -21,4 +21,4 @@ author: admin
 👋 Hi, there! I'm **Elvin**, a form 1 student.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé]("https://docs.google.com/spreadsheets/d/1ONZdbHOHnkRp72Z19msYwRKViN2MBGG9bxmQh09A0tw/edit?gid=0#gid=0") and portfolio below 😍
+Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1ONZdbHOHnkRp72Z19msYwRKViN2MBGG9bxmQh09A0tw/edit?gid=0#gid=0" "newtab" >}}resumé{{< /staticref >}}
