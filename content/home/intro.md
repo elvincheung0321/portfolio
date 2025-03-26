@@ -23,6 +23,9 @@ I love playing basketball, and I like taking programming classes as well..
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1ONZdbHOHnkRp72Z19msYwRKViN2MBGG9bxmQh09A0tw/edit?gid=0#gid=0" "newtab" >}}resumé{{< /staticref >}}
-""
+
+
+
+
 Below are some of my programming projects. Have fun with the games I wrote.
 
