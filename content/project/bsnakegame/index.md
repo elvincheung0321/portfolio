@@ -1,5 +1,5 @@
 ---
-title: Snake Game
+title: Snake Game(Javascript)
 summary: Write about your project here...
 tags:
   - NLP
