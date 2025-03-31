@@ -1,5 +1,5 @@
 ---
-title: Snake Game
+title: Space Invaders
 summary: Write about your project here...
 tags:
   - CV
