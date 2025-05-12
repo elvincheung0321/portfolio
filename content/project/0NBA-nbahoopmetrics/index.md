@@ -1,5 +1,5 @@
 ---
-title: NBA
+title: NBA hoop metrics
 summary: Write about your project here...
 tags:
   - ML
