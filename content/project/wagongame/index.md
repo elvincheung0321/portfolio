@@ -1,5 +1,5 @@
 ---
-title: Wagon Game
+title: 10. Wagon Game
 summary: Write about your project here...
 tags:
   - CV

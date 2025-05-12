@@ -1,5 +1,5 @@
 ---
-title: 2048 Game
+title: 2. 2048 Game
 summary: Write about your project here...
 tags:
   - ML

@@ -1,5 +1,5 @@
 ---
-title: Snake Game(Python)
+title: 5. Snake Game(Python)
 summary: Write about your project here...
 tags:
   - CV

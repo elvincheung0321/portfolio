@@ -1,5 +1,5 @@
 ---
-title: Number Game
+title: 9. Number Game
 summary: Write about your project here...
 tags:
   - ML
