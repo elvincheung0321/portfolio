@@ -1,5 +1,5 @@
 ---
-title: Memory Game
+title: 3. Memory Game
 summary: Write about your project here...
 tags:
   - ML

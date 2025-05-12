@@ -1,5 +1,5 @@
 ---
-title: Hangman
+title: 7. Hangman
 summary: Write about your project here...
 tags:
   - ML

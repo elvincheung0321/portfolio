@@ -1,5 +1,5 @@
 ---
-title: NBA hoop metrics
+title: 1. NBA hoop metrics
 summary: Write about your project here...
 tags:
   - ML
