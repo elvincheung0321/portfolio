@@ -1,6 +1,6 @@
 ---
 title: 7. Hangman
-summary: Write about your project here...
+summary: This hangman game is made using javascript.
 tags:
   - ML
 #date: 2022-01-01
