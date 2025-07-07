@@ -1,5 +1,5 @@
 ---
-title: Space Invaders
+title: 10. Space Invaders
 summary: Write about your project here...
 tags:
   - CV
