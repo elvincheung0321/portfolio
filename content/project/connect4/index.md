@@ -1,6 +1,6 @@
 ---
 title: 8. Connect 4 Game
-summary: Write about your project here...
+summary: This game was made using javascript.
 tags:
   - CV
 #date: 2022-01-01

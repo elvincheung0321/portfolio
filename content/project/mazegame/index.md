@@ -1,6 +1,6 @@
 ---
 title: 6. Maze Game
-summary: Write about your project here...
+summary: This game was made using javascript.
 tags:
   - ML
 #date: 2022-01-01

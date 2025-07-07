@@ -1,6 +1,6 @@
 ---
 title: 5A. Snake Game (Python)
-summary: Write about your project here...
+summary: This game was made using python.
 tags:
   - CV
 #date: 2022-01-01

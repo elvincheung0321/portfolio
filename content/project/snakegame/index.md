@@ -1,6 +1,6 @@
 ---
 title: 5B. Snake Game (Javascript)
-summary: Write about your project here...
+summary: This game was made using javascript.
 tags:
   - NLP
 #date: 2022-01-01
