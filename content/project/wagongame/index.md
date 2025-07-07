@@ -1,6 +1,6 @@
 ---
 title: 9B. Wagon Game
-summary: Write about your project here...
+summary: This wagon game is made using javascript.
 tags:
   - CV
 #date: 2022-01-01
