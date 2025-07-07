@@ -20,7 +20,7 @@ author: admin
 ---
 
 👋 Hi, I'm **Elvin**, I am 13 years old. I’m a Form 1 student at St. Paul’s Co-educational College.
-I love playing basketball, and I like taking programming classes as well..
+I love playing basketball, and I like taking programming classes as well.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 
