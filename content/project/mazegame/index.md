@@ -1,5 +1,5 @@
 ---
-title: 6. MazeGame
+title: 6. Maze Game
 summary: Write about your project here...
 tags:
   - ML
