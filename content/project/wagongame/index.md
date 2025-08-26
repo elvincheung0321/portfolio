@@ -4,5 +4,5 @@ summary: This game is made using javascript.
 tags:
   - CV
 #date: 2022-01-01
-external_link: https://pichudestroyer.github.io/WagonGame/
+external_link: https://elvincheung0321.github.io/WagonGame/
 ---
