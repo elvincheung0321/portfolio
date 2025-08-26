@@ -27,7 +27,7 @@ author: admin
 I love playing basketball, and I like taking programming classes as well.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my {{< staticref "" "newtab" >}}resumé{{< /staticref >}}
+Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" "newtab" >}}resumé{{< /staticref >}}
 
 
 
