@@ -9,14 +9,14 @@ headless: true
 weight: 10
 
 author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
-#Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1ONZdbHOHnkRp72Z19msYwRKViN2MBGG9bxmQh09A0tw/edit?gid=0#gid=0" "newtab" >}}resumé{{< /staticref >}}
+design:
+  background:
+    color: '#090a0b'
+    text_color_light: true
+    video:
+      path:  # enter filename of a video in /assets/media
+  css_class: fullscreen
+Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1ONZdbHOHnkRp72Z19msYwRKViN2MBGG9bxmQh09A0tw/edit?gid=0#gid=0" "newtab" >}}resumé{{< /staticref >}}
 ---
 
 👋 Hi, I'm **Elvin**, I am 13 years old. I’m a Form 2 student at St. Paul’s Co-educational College.
