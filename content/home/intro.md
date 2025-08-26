@@ -9,6 +9,10 @@ weight: 10
 
 author: admin
 
+
+
+---
+
 design:
   background:
     color: '#090a0b'
@@ -16,10 +20,6 @@ design:
     video:
       path:  # enter filename of a video in /assets/media
   css_class: fullscreen
-
----
-
-
 
 👋 Hi, I'm **Elvin**, I am 13 years old. I’m a Form 2 student at St. Paul’s Co-educational College.
 I love playing basketball, and I like taking programming classes as well.
