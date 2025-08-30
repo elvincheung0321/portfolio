@@ -26,7 +26,7 @@ experience:
     company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Hong Kong
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
