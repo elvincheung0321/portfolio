@@ -29,7 +29,7 @@ I love playing basketball, and I like taking programming classes as well.
 
 Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" "newtab" >}}resumé{{< /staticref >}}
 
-Check out my [interests](/about/)
+Check out my [interests](/portfolio/about/)
 
 
 
