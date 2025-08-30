@@ -69,4 +69,4 @@ social:
 
 Elvin Cheung is a form 2 student.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" "newtab" >}}View{{< /staticref >}} my resumé.
+{{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" "newtab" >}}View{{< /staticref >}} my resumé.
