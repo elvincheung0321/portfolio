@@ -1,15 +1,15 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: experience
+# widget: experience
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+# title: Education
 subtitle:
 
 # Date format for experience
@@ -21,27 +21,27 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: SPCC
-    company: St. Paul's Co-educational College
-    company_url: 'https://www.spcc.edu.hk/'
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+# experience:
+#   - title: SPCC
+#     company: St. Paul's Co-educational College
+#     company_url: 'https://www.spcc.edu.hk/'
+#     company_logo: org-x
+#     location: California
+#     date_start: '2021-01-01'
+#     date_end: '2022-01-01'
+#     description: |2-
+#         * Dissertation on Y
+#         * Basketball team
+#         * DJ club
 
-  - title: SPCCPS
-    company: St. Paul's Co-Educational College Primary School
-    company_url: 'https://www.spccps.edu.hk/'
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+#   - title: SPCCPS
+#     company: St. Paul's Co-Educational College Primary School
+#     company_url: 'https://www.spccps.edu.hk/'
+#     company_logo: org-x
+#     location: California
+#     date_start: '2016-01-01'
+#     date_end: '2020-12-31'
+#     description: My dissertation was on X
 
 design:
   columns: '1'
