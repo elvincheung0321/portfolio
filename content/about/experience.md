@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Hong Kong
-    date_start: '2016'
+    date_start: '2016-01-01'
     date_end: ''
     description: |2-
         <a href="https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" target="_blank">View</a>
