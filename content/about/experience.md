@@ -29,10 +29,9 @@ experience:
     location: Hong Kong
     date_start: '2016'
     date_end: ''
-    description: {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" "newtab" >}}View{{< /staticref >}}
+    description: |2-
+        <a href="https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" target="_blank">View</a>
         
-        
-
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
