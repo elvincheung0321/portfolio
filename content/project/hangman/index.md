@@ -1,5 +1,5 @@
 ---
-title: 7. Hangman
+title: Hangman
 summary: This game is made using javascript.
 tags:
   - J

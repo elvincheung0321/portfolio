@@ -1,5 +1,5 @@
 ---
-title: 9A. Number Game
+title: Number Game
 summary: This game was made using javascript.
 tags:
   - J

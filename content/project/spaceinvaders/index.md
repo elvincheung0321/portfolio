@@ -1,5 +1,5 @@
 ---
-title: 4. Space Invaders
+title: Space Invaders
 summary: This game was made using python.
 tags:
   - P

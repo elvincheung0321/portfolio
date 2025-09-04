@@ -1,5 +1,5 @@
 ---
-title: 5A. Snake Game (Python)
+title: Snake Game (Python)
 summary: This game was made using python.
 tags:
   - P

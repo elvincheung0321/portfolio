@@ -1,5 +1,5 @@
 ---
-title: 5B. Snake Game (Javascript)
+title: Snake Game (Javascript)
 summary: This game was made using javascript.
 tags:
   - J

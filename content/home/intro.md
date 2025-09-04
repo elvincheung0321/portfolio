@@ -31,7 +31,7 @@ Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXm
 
 Check out my [interests](/portfolio/about/)
 
-Check out my {{< staticref "https://github.com/elvincheung0321" "newtab" >}}code{{< /staticref >}}
+Check out my {{< staticref "https://github.com/elvincheung0321?tab=repositories" "newtab" >}}code{{< /staticref >}}
 
 
 

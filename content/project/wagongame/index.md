@@ -1,5 +1,5 @@
 ---
-title: 9B. Wagon Game
+title: Wagon Game
 summary: This game is made using javascript.
 tags:
   - J

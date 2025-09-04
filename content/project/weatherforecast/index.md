@@ -1,5 +1,5 @@
 ---
-title: 1. Weather forecast
+title: Weather forecast
 summary: Hong Kong weather forecast
 tags:
   - P

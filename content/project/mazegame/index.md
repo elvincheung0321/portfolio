@@ -1,5 +1,5 @@
 ---
-title: 6. Maze Game
+title: Maze Game
 summary: This game was made using javascript.
 tags:
   - J

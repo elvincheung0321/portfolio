@@ -1,5 +1,5 @@
 ---
-title: 3. Memory Game
+title: Memory Game
 summary: This game was made using javascript.
 tags:
   - J
