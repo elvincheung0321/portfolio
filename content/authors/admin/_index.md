@@ -67,6 +67,6 @@ social:
 #email: ""
 ---
 
-Elvin Cheung is a form 2 student.
+Elvin Cheung is a currently form 2 student.
 
 {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" "newtab" >}}View{{< /staticref >}} my resumé.
