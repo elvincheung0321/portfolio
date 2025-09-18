@@ -30,7 +30,7 @@ experience:
         * <a href="https://drive.google.com/file/d/1Oi8D0-mDZc5hsOf1229kkzsoSTRj004y/view?usp=drive_link" target="_blank">3</a>
         * <a href="https://drive.google.com/file/d/10fkguJNHzfn-JlnXmghN1GW70MEsGGpB/view?usp=drive_link" target="_blank">4</a>
     company_url: ''
-    company_logo: 
+    company_logo: basketball
     location: Hong Kong
     date_start: '2016-01-01'
     date_end: ''
