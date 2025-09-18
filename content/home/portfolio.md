@@ -32,6 +32,8 @@ content:
       tag: P
     - name: Javascript
       tag: J
+    - name: Data Science
+      tag: DS
     # - name: NLP
     #   tag: NLP
 
