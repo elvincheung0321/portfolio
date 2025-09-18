@@ -31,7 +31,7 @@ Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXm
 
 Check out my [hobbies](/portfolio/about/) and {{< staticref "https://github.com/elvincheung0321?tab=repositories" "newtab" >}}code{{< /staticref >}}
 
-Check out my {{< staticref "https://github.com/elvincheung0321?tab=repositories" "newtab" >}}code{{< /staticref >}}
+Check out my {{< staticref "nba-sand.vercel.app/games/" "newtab" >}}passion project{{< /staticref >}}
 
 
 
