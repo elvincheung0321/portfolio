@@ -40,17 +40,15 @@ experience:
         
   - title: Music
     company: |2-
-        Here are highlights from my basketball competitions for the past two years.
-        * <a href="https://drive.google.com/file/d/1GxB-ojpLoewSafuJxm4QLTVf6L_jPvyF/view?usp=drive_link" target="_blank">2024-2025 Inter-school competitions</a>
-        * <a href="https://drive.google.com/file/d/1_X0WkuT5opca4ttWVKqL0SbX9iIB0QoB/view?usp=drive_link" target="_blank">2024-2025 Inter-class competitions</a>
-        * <a href="https://drive.google.com/file/d/1Oi8D0-mDZc5hsOf1229kkzsoSTRj004y/view?usp=drive_link" target="_blank">2023-2024 Inter-school competitions (Goals)</a>
-        * <a href="https://drive.google.com/file/d/10fkguJNHzfn-JlnXmghN1GW70MEsGGpB/view?usp=drive_link" target="_blank">2023-2024 Inter-school competitions (Other Skills)</a>
+        Here are the Band Performance and Drum Cover from this summer:
+        * <a href="https://drive.google.com/file/d/1v_bbHm7o3Yg5uc10WRX7s4s5R_LjEyem/view?usp=drive_link" target="_blank">2025(Jul) Band performance (Drummer)</a>
+        * <a href="https://drive.google.com/file/d/1vZxeww2X9PR659QVmJRxz-_-I8OM3Pkr/view?usp=drive_link" target="_blank">2025(Aug) Drum Cover</a>
     company_url: ''
     company_logo: drumset
-    location: California
+    location: Hong Kong
     date_start: '2015-01-01'
     date_end: ''
-    description: Elvin Cheung
+    description: I play piano and percussion, including the drum set. This summer, I organized a music event at SAGE Madam Ho Sin Hang Home for the Elderly. I was the drummer and invited family and friends to jam with me.
   
 
 design:
