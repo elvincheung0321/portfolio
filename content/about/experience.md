@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Basketball
-    company: School
+    company: I love basketball! I started training from age 6, despite there never being a boys’ basketball team at my school. My school finally opened a boys’ basketball team when I was in primary 6 (Grade 6), and I immediately became a key player. I was even invited by another school to join their district area competition. I continue to be a key player in the secondary school team, consisting of Form 1 and Form 2 students. I organize a basketball team for my class for inter-class competitions. Outside of school, I am a member of an elite U13 team (Fun Basketball) participating in lots of competitions, while maintaining my weekly private training. This summer, I attended a Sports Broadcasting camp in Boston to learn more about college and professional sports. I completed a coaching course with Positive Coaching Alliance. I continued to go back to my elementary school to train with my underclassmen since graduating, and this summer, I assisted the basketball coach with the basketball team’s training. And this year, I am glad to be the school’s basketball team captain and a member of the basketball club committee.
     company_url: ''
     company_logo: 
     location: Hong Kong
