@@ -39,12 +39,17 @@ experience:
 
         
   - title: Music
-    company: University X
+    company: |2-
+        Here are highlights from my basketball competitions for the past two years.
+        * <a href="https://drive.google.com/file/d/1GxB-ojpLoewSafuJxm4QLTVf6L_jPvyF/view?usp=drive_link" target="_blank">2024-2025 Inter-school competitions</a>
+        * <a href="https://drive.google.com/file/d/1_X0WkuT5opca4ttWVKqL0SbX9iIB0QoB/view?usp=drive_link" target="_blank">2024-2025 Inter-class competitions</a>
+        * <a href="https://drive.google.com/file/d/1Oi8D0-mDZc5hsOf1229kkzsoSTRj004y/view?usp=drive_link" target="_blank">2023-2024 Inter-school competitions (Goals)</a>
+        * <a href="https://drive.google.com/file/d/10fkguJNHzfn-JlnXmghN1GW70MEsGGpB/view?usp=drive_link" target="_blank">2023-2024 Inter-school competitions (Other Skills)</a>
     company_url: ''
-    company_logo: org-x
+    company_logo: drumset
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2015-01-01'
+    date_end: ''
     description: Elvin Cheung
   
 
