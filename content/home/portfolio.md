@@ -28,12 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Data Science
+      tag: DS
     - name:  Python
       tag: P
     - name: Javascript
       tag: J
-    - name: Data Science
-      tag: DS
+
     # - name: NLP
     #   tag: NLP
 
