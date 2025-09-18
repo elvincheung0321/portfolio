@@ -23,16 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Basketball
-    company: GenCoin
+    company: School
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Hong Kong
     date_start: '2016-01-01'
     date_end: ''
     description: |2-
-        <a href="https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" target="_blank">View</a>
+        Check out my highlights
+        <a href="https://drive.google.com/file/d/1GxB-ojpLoewSafuJxm4QLTVf6L_jPvyF/view?usp=drive_link" target="_blank">1</a>
+        <a href="https://drive.google.com/file/d/1_X0WkuT5opca4ttWVKqL0SbX9iIB0QoB/view?usp=drive_link" target="_blank">2</a>
+        <a href="https://drive.google.com/file/d/1Oi8D0-mDZc5hsOf1229kkzsoSTRj004y/view?usp=drive_link" target="_blank">3</a>
+        <a href="https://drive.google.com/file/d/10fkguJNHzfn-JlnXmghN1GW70MEsGGpB/view?usp=drive_link" target="_blank">4</a>
         
-  - title: Professor of Semiconductor Physics
+  - title: Music
     company: University X
     company_url: ''
     company_logo: org-x
