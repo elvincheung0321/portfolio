@@ -53,8 +53,8 @@ experience:
   - title: Leadership and Community Service
     company: |2-
         Here are the leadership program and community services I participated in this summer:
-        * <a href="https://drive.google.com/file/d/10fRL0qVtZjvAh6FE-lVYxNRaRkerFY60/view" target="_blank">2025(Jun-Aug)Youth Leadership Training Program</a>
-        * <a href="https://drive.google.com/file/d/1C0HCTyOJu7YDtEsVfzM5k2qQJWB73zCE/view" target="_blank">2025(Aug-Sep)Life Science Laboratory</a>
+        * <a href="https://drive.google.com/file/d/10fRL0qVtZjvAh6FE-lVYxNRaRkerFY60/view" target="_blank">2025(Jun-Aug) Youth Leadership Training Program</a>
+        * <a href="https://drive.google.com/file/d/1C0HCTyOJu7YDtEsVfzM5k2qQJWB73zCE/view" target="_blank">2025(Aug-Sep) Life Science Laboratory</a>
     company_url: ''
     company_logo: thumb
     location: Hong Kong
