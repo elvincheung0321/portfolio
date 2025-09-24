@@ -31,12 +31,12 @@ Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXm
 
 Check out my [Hobbies](/portfolio/about/)
 
-Check out my {{< staticref "https://nba-sand.vercel.app/games/" "newtab" >}}Passion Project (NBA Hoop Metrics){{< /staticref >}} and {{< staticref "https://github.com/elvincheung0321?tab=repositories" "newtab" >}}Code{{< /staticref >}}
+Check out my {{< staticref "https://nba-sand.vercel.app/games/" "newtab" >}}Passion Project (NBA Hoop Metrics){{< /staticref >}}
 
 
 
 
 
 
-Below are some of my programming projects. Have fun with the games I wrote.
+Below are some of my programming projects. Have fun with the games I wrote. You can check out my {{< staticref "https://github.com/elvincheung0321?tab=repositories" "newtab" >}}code here{{< /staticref >}}
 
