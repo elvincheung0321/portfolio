@@ -60,7 +60,7 @@ experience:
     location: Hong Kong
     date_start: '2025-07-01'
     date_end: ''
-    description: |2-
+    description:
             Project RISE - Youth Volunteer Leadership Training Program - The Hong Kong Federation of Youth Groups: 
               I participated in a youth leadership training program this summer. The entire program lasts three months, from June to August, starting with participant evaluation, orientation, an overnight training camp, event organization, and ending with the event day itself. The training camp held workshops covering vital skills such as communication, negotiation and compromise, time management, planning and organization, and team building. My team designed a city scavenger hunt with family bonding activities at the youth community center. It took us a month to meet and plan, take a field trip to try out the route, and prepare for the day of the event.  
             Life Science Laboratory - The Hong Kong Federation of Youth Groups: 
