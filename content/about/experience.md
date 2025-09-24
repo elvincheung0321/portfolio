@@ -52,7 +52,7 @@ experience:
   
   - title: Service
     company: |2-
-        Here are some highlgihts from my leadership and community service activities
+        Here are some highlgihts from my leadership program and community services
         * <a href="https://drive.google.com/file/d/10fRL0qVtZjvAh6FE-lVYxNRaRkerFY60/view" target="_blank">Leadership Training Program</a>
         * <a href="https://drive.google.com/file/d/1C0HCTyOJu7YDtEsVfzM5k2qQJWB73zCE/view" target="_blank">Community Service</a>
     company_url: ''
@@ -60,11 +60,18 @@ experience:
     location: Hong Kong
     date_start: '2025-07-01'
     date_end: ''
-    description:
-            Project RISE - Youth Volunteer Leadership Training Program - The Hong Kong Federation of Youth Groups: 
-              I participated in a youth leadership training program this summer. The entire program lasts three months, from June to August, starting with participant evaluation, orientation, an overnight training camp, event organization, and ending with the event day itself. The training camp held workshops covering vital skills such as communication, negotiation and compromise, time management, planning and organization, and team building. My team designed a city scavenger hunt with family bonding activities at the youth community center. It took us a month to meet and plan, take a field trip to try out the route, and prepare for the day of the event.  
-            Life Science Laboratory - The Hong Kong Federation of Youth Groups: 
-              I participated in a Life Science Laboratory project this summer to create engaging science experiments and develop leadership skills. Our goal was to inspire young children to explore science. My teammate and I successfully designed an electromagnetic crane model. The project took one month of research, planning, preparing the presentation, and building the model. While building the model, we encountered numerous problem-solving challenges, including wiring issues, battery strength, and insufficient copper wire. On that day, we presented our project, explained the theory behind it, and showcased our model to our young participants.  
+    description: |2-
+            Youth Leadership Training Program: 
+            I participated in a youth leadership training program this summer. The entire program lasts three months, from June to August, starting with participant evaluation, 
+            orientation, an overnight training camp, event organization, and ending with the event day itself. The training camp held workshops covering vital skills such as communication, 
+            negotiation and compromise, time management, planning and organization, and team building. My team designed a city scavenger hunt with family bonding activities at the youth 
+            community center. It took us a month to meet and plan, take a field trip to try out the route, and prepare for the day of the event.  
+
+            Life Science Laboratory: 
+            I participated in a Life Science Laboratory project this summer to create engaging science experiments and develop leadership skills. Our goal was to inspire young children to 
+            explore science. My teammate and I successfully designed an electromagnetic crane model. The project took one month of research, planning, preparing the presentation, and 
+            building the model. While building the model, we encountered numerous problem-solving challenges, including wiring issues, battery strength, and insufficient copper wire. On 
+            that day, we presented our project, explained the theory behind it, and showcased our model to our young participants.  
 design:
   columns: '1'
 ---
