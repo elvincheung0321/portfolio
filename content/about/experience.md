@@ -56,7 +56,7 @@ experience:
         * <a href="https://drive.google.com/file/d/10fRL0qVtZjvAh6FE-lVYxNRaRkerFY60/view" target="_blank">Leadership Project(Drummer)</a>
         * <a href="https://drive.google.com/file/d/1C0HCTyOJu7YDtEsVfzM5k2qQJWB73zCE/view" target="_blank">Community Service</a>
     company_url: ''
-    company_logo: drumset
+    company_logo: thumb
     location: Hong Kong
     date_start: '2025-07-01'
     date_end: ''
