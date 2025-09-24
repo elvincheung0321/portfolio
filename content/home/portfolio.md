@@ -28,6 +28,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Passion Project
+      tag: PP
     - name: Data Science
       tag: DS
     - name:  Python
