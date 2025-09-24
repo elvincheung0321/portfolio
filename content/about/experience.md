@@ -50,7 +50,7 @@ experience:
     date_end: ''
     description: I play piano and percussion, including the drum set. This summer, I organized a music event at SAGE Madam Ho Sin Hang Home for the Elderly. I was the drummer and invited family and friends to jam with me.
   
-    - title: Service
+  - title: Service
     company: |2-
         Here are some highlgihts from my leadership and community service activities
         * <a href="https://drive.google.com/file/d/10fRL0qVtZjvAh6FE-lVYxNRaRkerFY60/view" target="_blank">Leadership Project(Drummer)</a>
