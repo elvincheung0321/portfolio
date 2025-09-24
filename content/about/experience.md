@@ -53,7 +53,7 @@ experience:
   - title: Service
     company: |2-
         Here are some highlgihts from my leadership and community service activities
-        * <a href="https://drive.google.com/file/d/10fRL0qVtZjvAh6FE-lVYxNRaRkerFY60/view" target="_blank">Leadership Project(Drummer)</a>
+        * <a href="https://drive.google.com/file/d/10fRL0qVtZjvAh6FE-lVYxNRaRkerFY60/view" target="_blank">Leadership Project</a>
         * <a href="https://drive.google.com/file/d/1C0HCTyOJu7YDtEsVfzM5k2qQJWB73zCE/view" target="_blank">Community Service</a>
     company_url: ''
     company_logo: thumb

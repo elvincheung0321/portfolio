@@ -31,7 +31,7 @@ Check out my {{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXm
 
 Check out my [Hobbies](/portfolio/about/)
 
-Check out my {{< staticref "https://nba-sand.vercel.app/games/" "newtab" >}}Passion Project (NBA Hoop Metrics){{< /staticref >}}
+<!-- Check out my {{< staticref "https://nba-sand.vercel.app/games/" "newtab" >}}Passion Project (NBA Hoop Metrics){{< /staticref >}} -->
 
 
 
