@@ -44,7 +44,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elvincheung0321@gmail.com' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:elvincheungcs0321@gmail.com' # For a direct email link, use "mailto:test@example.org".
     
 #  - icon: twitter
 #    icon_pack: fab
@@ -69,4 +69,4 @@ social:
 
 Elvin Cheung is a currently form 2 student.
 
-{{< staticref "https://docs.google.com/spreadsheets/d/1k6o1Wzj-8EXmB99_1AAKXd1jzXeewzX-gUfrgqIjTqM/edit?gid=1633569368#gid=1633569368" "newtab" >}}View{{< /staticref >}} my resumé.
+{{< staticref "https://docs.google.com/spreadsheets/d/15hP8-ltur0I08XruJr9Klsw4N0NkT9_1/edit?gid=757404062#gid=757404062" "newtab" >}}View{{< /staticref >}} my resumé.

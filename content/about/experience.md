@@ -25,10 +25,10 @@ experience:
   - title: Basketball
     company: |2-
         Here are highlights from my basketball competitions for the past two years.
-        * <a href="https://drive.google.com/file/d/1GxB-ojpLoewSafuJxm4QLTVf6L_jPvyF/view?usp=drive_link" target="_blank">2024-2025 Inter-school competitions</a>
-        * <a href="https://drive.google.com/file/d/1_X0WkuT5opca4ttWVKqL0SbX9iIB0QoB/view?usp=drive_link" target="_blank">2024-2025 Inter-class competitions</a>
-        * <a href="https://drive.google.com/file/d/1Oi8D0-mDZc5hsOf1229kkzsoSTRj004y/view?usp=drive_link" target="_blank">2023-2024 Inter-school competitions (Goals)</a>
-        * <a href="https://drive.google.com/file/d/10fkguJNHzfn-JlnXmghN1GW70MEsGGpB/view?usp=drive_link" target="_blank">2023-2024 Inter-school competitions (Other Skills)</a>
+        * <a href="https://docs.google.com/spreadsheets/d/15hP8-ltur0I08XruJr9Klsw4N0NkT9_1/edit?gid=757404062#gid=757404062" target="_blank">2024-2025 Inter-school competitions</a>
+        * <a href="https://drive.google.com/file/d/1qPxA_xXUsKvXZrW_3xVbXd_goMZZiRsc/view?usp=sharing" target="_blank">2024-2025 Inter-class competitions</a>
+        * <a href="https://drive.google.com/file/d/1d6ODEiEbsY1BFfN0gdG252VcLgUfSOf9/view?usp=sharing" target="_blank">2023-2024 Inter-school competitions (Goals)</a>
+        * <a href="https://drive.google.com/file/d/15h5B08TU2q1xrqFFrazfGSLyblOK4kVB/view?usp=sharing" target="_blank">2023-2024 Inter-school competitions (Other Skills)</a>
     company_url: ''
     company_logo: basketball
     location: Hong Kong
@@ -41,8 +41,8 @@ experience:
   - title: Music
     company: |2-
         Here are the Band Performance and Drum Cover from this summer:
-        * <a href="https://drive.google.com/file/d/1v_bbHm7o3Yg5uc10WRX7s4s5R_LjEyem/view?usp=drive_link" target="_blank">2025(Jul) Band performance (Drummer)</a>
-        * <a href="https://drive.google.com/file/d/1vZxeww2X9PR659QVmJRxz-_-I8OM3Pkr/view?usp=drive_link" target="_blank">2025(Aug) Drum Cover</a>
+        * <a href="https://drive.google.com/file/d/1Y8khav1lCvfFwRS2K-CP8VwVFKWL3_uy/view?usp=sharing" target="_blank">2025(Jul) Band performance (Drummer)</a>
+        * <a href="https://drive.google.com/file/d/1vZ0gTvmqRF8h-gXhYSCMnMm6c0eA4acW/view?usp=sharing" target="_blank">2025(Aug) Drum Cover</a>
     company_url: ''
     company_logo: drumset
     location: Hong Kong
@@ -53,8 +53,8 @@ experience:
   - title: Leadership and Community Service
     company: |2-
         Here are the leadership program and community services I participated in this summer:
-        * <a href="https://drive.google.com/file/d/10fRL0qVtZjvAh6FE-lVYxNRaRkerFY60/view" target="_blank">2025(Jun-Aug) Youth Leadership Training Program</a>
-        * <a href="https://drive.google.com/file/d/1C0HCTyOJu7YDtEsVfzM5k2qQJWB73zCE/view" target="_blank">2025(Aug-Sep) Life Science Laboratory</a>
+        * <a href="https://drive.google.com/file/d/1cmACXSlczP_pvOWvLWzeiVZfDsa9Avhx/view?usp=sharing" target="_blank">2025(Jun-Aug) Youth Leadership Training Program</a>
+        * <a href="https://drive.google.com/file/d/1MtXnldCK4jtR0PbNx3aSPbR9_bNtN3ZU/view?usp=sharing" target="_blank">2025(Aug-Sep) Life Science Laboratory</a>
     company_url: ''
     company_logo: thumb
     location: Hong Kong
