@@ -25,7 +25,7 @@ experience:
   - title: Basketball
     company: |2-
         Here are highlights from my basketball competitions for the past two years.
-        * <a href="https://drive.google.com/file/d/1MtXnldCK4jtR0PbNx3aSPbR9_bNtN3ZU/view?usp=sharing" target="_blank">2024-2025 Inter-school competitions</a>
+        * <a href="https://drive.google.com/file/d/1h1KEBD49beS0QV60eSosuzyATRXZI44x/view?usp=sharing" target="_blank">2024-2025 Inter-school competitions</a>
         * <a href="https://drive.google.com/file/d/1qPxA_xXUsKvXZrW_3xVbXd_goMZZiRsc/view?usp=sharing" target="_blank">2024-2025 Inter-class competitions</a>
         * <a href="https://drive.google.com/file/d/1d6ODEiEbsY1BFfN0gdG252VcLgUfSOf9/view?usp=sharing" target="_blank">2023-2024 Inter-school competitions (Goals)</a>
         * <a href="https://drive.google.com/file/d/15h5B08TU2q1xrqFFrazfGSLyblOK4kVB/view?usp=sharing" target="_blank">2023-2024 Inter-school competitions (Other Skills)</a>
