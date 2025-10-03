@@ -44,7 +44,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elvincheungcs0321@gmail.com' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:elvincheung2012@gmail.com' # For a direct email link, use "mailto:test@example.org".
     
 #  - icon: twitter
 #    icon_pack: fab
