@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Basketball
     company: |2-
-        Here are highlights from my basketball competitions for the past two years.
+        Here are highlights from my basketball competitions for the past two years. (Check out the links below)
         * <a href="https://drive.google.com/file/d/1h1KEBD49beS0QV60eSosuzyATRXZI44x/view?usp=sharing" target="_blank">2024-2025 Inter-school competitions</a>
         * <a href="https://drive.google.com/file/d/1qPxA_xXUsKvXZrW_3xVbXd_goMZZiRsc/view?usp=sharing" target="_blank">2024-2025 Inter-class competitions</a>
         * <a href="https://drive.google.com/file/d/1d6ODEiEbsY1BFfN0gdG252VcLgUfSOf9/view?usp=sharing" target="_blank">2023-2024 Inter-school competitions (Goals)</a>
@@ -40,7 +40,7 @@ experience:
         
   - title: Music
     company: |2-
-        Here are the Band Performance and Drum Cover from this summer:
+        Here are the Band Performance and Drum Cover from this summer: (Check out the links below)
         * <a href="https://drive.google.com/file/d/1Y8khav1lCvfFwRS2K-CP8VwVFKWL3_uy/view?usp=sharing" target="_blank">2025(Jul) Band performance (Drummer)</a>
         * <a href="https://drive.google.com/file/d/1vZ0gTvmqRF8h-gXhYSCMnMm6c0eA4acW/view?usp=sharing" target="_blank">2025(Aug) Drum Cover</a>
     company_url: ''
@@ -48,11 +48,11 @@ experience:
     location: Hong Kong
     date_start: '2015-01-01'
     date_end: ''
-    description: I play piano and percussion, including the drum set. This summer, I organized a music event at SAGE Madam Ho Sin Hang Home for the Elderly. I was the drummer and invited family and friends to jam with me.
+    description: I play piano and percussion, including the drum set. This summer, I organized a music event at SAGE Madam Ho Sin Hang Home for the Elderly. I was the drummer and invited family and friends to perform with me.
   
   - title: Leadership and Community Service
     company: |2-
-        Here are the leadership program and community services I participated in this summer:
+        Here are the leadership program and community services I participated in this summer: (Check out the links below)
         * <a href="https://drive.google.com/file/d/1cmACXSlczP_pvOWvLWzeiVZfDsa9Avhx/view?usp=sharing" target="_blank">2025(Jun-Aug) Youth Leadership Training Program</a>
         * <a href="https://drive.google.com/file/d/1MtXnldCK4jtR0PbNx3aSPbR9_bNtN3ZU/view?usp=sharing" target="_blank">2025(Aug-Sep) Life Science Laboratory</a>
     company_url: ''
